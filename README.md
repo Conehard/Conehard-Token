@@ -1,5 +1,5 @@
 # Conehard Token
-The contract was created to be published on the BSC Network/BEP20.
+The contract was created to be published on the BSC Network/BEP20 for study purposes.
 
 Implemented functions:
 - balanceOf: Returns token balance of a wallet
